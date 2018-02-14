@@ -14,7 +14,7 @@
 #include <sstream>
 #include "Indices.h"
 #include "Videojuegos.h"
-
+// Se agrega comentario 
 class AdminCatalogo{
     Indices indices;
     Videojuego videojuego;
